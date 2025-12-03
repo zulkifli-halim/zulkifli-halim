@@ -1,2 +1,2 @@
 ## Hi there 👋
-Provide techical support for OpenVINO related issue.
+Provide technical support for OpenVINO related issues.
